@@ -22,6 +22,7 @@ Data versioning is the practice of storing multiple versions of the same data an
 - [DVC](https://dvc.org/doc/use-cases/versioning-data-and-models) Management and versioning of datasets and machine learning models.
 - [lakeFS](https://lakefs.io/) Repeatable, atomic and versioned data lake on top of object storage.
 - [Dolt](https://github.com/dolthub/dolt) Dolt is Git for Data!
+- [Omnigraph](https://github.com/ModernRelay/omnigraph) Typed property graph database with Git-style branch and merge, local or S3 storage, and typed queries.
 - [Pachyderm](https://www.pachyderm.com/) Pachyderm data versioning technology 
 - [wrgl](https://www.wrgl.co/) Data version control for data projects
 - [neptune](https://neptune.ai/) Log, organize, compare, register, and share all your ML model metadata in a single place
