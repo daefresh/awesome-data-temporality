@@ -122,6 +122,7 @@ Change data capture (CDC) is a process that captures and stores data about chang
 - [Flink](https://github.com/ververica/flink-cdc-connectors) CDC Connectors for Apache Flink
 - [gravity](https://github.com/moiot/gravity) A Data Replication Center
 - [brooklin](https://github.com/linkedin/brooklin) An extensible distributed system for reliable nearline data streaming at scale
+- [OLake](https://github.com/datazip-inc/olake-go) CDC and full-load replication from databases, Kafka and S3 into Apache Iceberg or Parquet
 
 
 ## Soft Delete in ORM Frameworks
